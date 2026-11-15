@@ -1,6 +1,6 @@
 # Udaipur Bus — UI/UX Design Case Study
 
-A responsive, static case-study website built with semantic HTML, CSS and vanilla JavaScript. The screenshots and app recording in `assets/` are the supplied project materials; the page distinguishes the UI/UX design contribution from the developer's implementation work.
+A responsive, static case-study website built with semantic HTML, CSS and vanilla JavaScript. The supplied application screenshots in `assets/` are used throughout; the page distinguishes the UI/UX design contribution from the developer's implementation work.
 
 ## Run locally
 
@@ -17,4 +17,4 @@ Open `index.html` in a browser. For a local HTTP server, run `npx serve .` from 
 
 - Replace the example Portfolio, LinkedIn and email URLs in `index.html` with your own.
 - Update the Open Graph image and metadata if you add a dedicated share-card image or production domain.
-- The screenshots are presented as supplied. The included app recording is loaded only when playback is requested (`preload="none"`).
+- The screenshots are presented as supplied.
